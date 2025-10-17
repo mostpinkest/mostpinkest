@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width="50%" src="https://github.com/Logicer16/Logicer16/raw/main/icon.svg">
+<img width="50%" src="https://github.com/mostpinkest/mostpinkest/raw/main/icon.svg">
 <br>
-Logicer
+mostpinkest
 </h1>
